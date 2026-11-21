@@ -1,0 +1,21 @@
+{
+  "name": "naukri-job-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Naukri Job Scraper | India & Gulf Jobs: Scrape Naukri.com and Naukri Gulf job listings: title, company, salary, experience, skills, location and description. No login needed. Export to JSON or CSV.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "naukri",
+    "naukrigulf"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}

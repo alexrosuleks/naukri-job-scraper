@@ -1,0 +1,11 @@
+{
+  "keyword": "software developer",
+  "jobBoard": "naukri",
+  "maxJobs": 10,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
